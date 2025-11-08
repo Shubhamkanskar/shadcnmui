@@ -20,10 +20,6 @@ export default function MigrationDemo() {
     <div className="p-8 space-y-8 max-w-4xl mx-auto">
       <div>
         <h1 className="text-3xl font-bold mb-2">Shadcn to MUI Demo</h1>
-        <p className="text-muted-foreground">
-          This demo shows how to migrate components from shadcn/ui to MUI using
-          sx prop and styled components
-        </p>
       </div>
 
       {/* Button Comparison */}
